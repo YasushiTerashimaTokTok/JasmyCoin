@@ -1,14 +1,18 @@
 {
-  "symbol": "JasmyCoin",
-  "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+  "symbol": "SASN",
+  "address": "0x672C25B7F63644fFF6543e5E461e40eaD25C2338",
   "overview":{
-        "en": "JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+        "en": "ASN (Alternative Swift Network) is the world’s first Defi featured decentralized network which can facilitate cross-border B2B financial transactions without using traditional Swift system.  It aims to make cross-border B2B financial transactions be processed in a frictionless, cost-efficient, and faster manner compared to the existing Swift system and related clearing and settlement facilities.ASN Governance Token: Super ASN (or SASN) tokens.",
+   
   },
-  "email": "contact@bwe-inc.jp",
-  "website": "https://jasmy.co.jp/index.html",
-  "whitepaper": "https://jasmy.co.jp/images/whitepaper20200618_eng.pdf",
-  },
+  "email": "hello@asn.plus",
+  "website": "http://http://asn.plus//",
+  "whitepaper": "http://asn.plus/uploads/soft/200922/ASNwhitepaperEnglish.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-10-01",
   "links": {
-    "github": "https://github.com/TokyoToken/JasmyCoin",
+    "twitter": "https://twitter.com/AsnCommittee",
+    "github": "https://github.com/ASNchain",
+    "facebook": "https://www.facebook.com/asn.plus.3"
   }
-}
+} 
